@@ -2,5 +2,4 @@
 <include>
 	<keyboard name="keyboard.he.xml" />
 	<keyboard name="keyboard.el.xml" />
-	<keyboard name="keyboard.en-US.xml" />
 </include>

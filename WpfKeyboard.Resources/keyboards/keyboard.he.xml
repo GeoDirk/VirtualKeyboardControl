@@ -290,13 +290,6 @@
 	</row>
 	<row>
 		<key>
-			<normal keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</normal>
-			<shift keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</shift>
-			<numSym keytype="switcheroo" keycode="LeftCtrl" enabled="false">Ctrl</numSym>
-			<smiley keytype="switcheroo" keycode="LeftCtrl" enabled="false">Ctrl</smiley>
-			<ctrl keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</ctrl>
-		</key>
-		<key>
 			<normal keytype="switcheroo" switcherooCode="numSym">&amp;123</normal>
 			<shift keytype="switcheroo" switcherooCode="numSym">&amp;123</shift>
 			<numSym keytype="switcheroo" switcherooCode="numSym">&amp;123</numSym>
@@ -304,18 +297,11 @@
 			<ctrl keytype="switcheroo" switcherooCode="numSym">&amp;123</ctrl>
 		</key>
 		<key>
-			<normal keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</normal>
-			<shift keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</shift>
-			<numSym keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</numSym>
-			<smiley keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</smiley>
-			<ctrl keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</ctrl>
-		</key>
-		<key>
-			<normal colspan="6" keycode="Space" value=" "></normal>
-			<shift colspan="6" keycode="Space" value=" "></shift>
+			<normal colspan="8" keycode="Space" value=" "></normal>
+			<shift colspan="8" keycode="Space" value=" "></shift>
 			<numSym keytype="virtual" keycode="Left" usesRenderer="true">&#xf053;</numSym>
 			<smiley keytype="virtual" keycode="Left" usesRenderer="true">&#xf053;</smiley>
-			<ctrl colspan="6" keycode="Space" value=" "></ctrl>
+			<ctrl colspan="8" keycode="Space" value=" "></ctrl>
 		</key>
 		<key>
 			<numSym keytype="virtual" keycode="Right" usesRenderer="true">&#xf054;</numSym>

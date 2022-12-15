@@ -15,6 +15,7 @@
         </Grid.RowDefinitions>
         <wpfKeyBoard:VirtualKeyboardControl x:Name="KeyboardControl" VirtualKeyPressed="KeyboardControl_OnVirtualKeyPressed" />
         <wpfKeyBoard:VkbTextBox
+            FontFamily="SBH Hebrew Regular"
             Grid.Row="1"
             Width="482"
             Margin="25,32,0,40"
