@@ -14,16 +14,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="fonts\fontawesome-webfont.ttf" />
-    <Resource Include="fonts\LateefRegOT.ttf" />
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="fonts\SBL_grk.ttf" />
     <Resource Include="fonts\SBL_Hbrw.ttf" />
     <Resource Include="keyboards\keyboard.el.xml">
-      <Generator>MSBuild:Compile</Generator>
-    </Resource>
-    <Resource Include="keyboards\keyboard.ar-sa.xml">
       <Generator>MSBuild:Compile</Generator>
     </Resource>
   </ItemGroup>
